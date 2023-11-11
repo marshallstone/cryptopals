@@ -1,8 +1,7 @@
 # Crytopals Challenges
 These challenges are taken from [cryptopals](https://cryptopals.com).
 
-I am doing these challenges to get better at writing in C as well as learning more about cryptography.
-
+"Don't roll your own crypto", they say.
 
 ## Challenges
 Set 1: Basics
