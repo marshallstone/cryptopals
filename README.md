@@ -6,7 +6,7 @@ These challenges are taken from [cryptopals](https://cryptopals.com).
 ## Challenges
 Set 1: Basics
 - [x] Convert hex to base64
-- [ ] Fixed XOR
+- [x] Fixed XOR
 - [ ] Single-byte XOR cipher
 - [ ] Detect single-character XOR
 - [ ] Implement repeating-key XOR
